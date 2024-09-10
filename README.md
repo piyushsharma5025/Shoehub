@@ -42,7 +42,7 @@ Welcome to Shoekart – where style meets comfort! Shoekart is an e-commerce pla
 
 Follow these steps to set up Shoekart on your local machine:
 
-1.  **Clone the Repository:**
+1.  **Clone the Repository:** https://github.com/piyushsharma5025/Shoehub.git
 
     ```bash
     git clone 
